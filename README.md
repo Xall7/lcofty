@@ -1,16 +1,33 @@
-### Hi there 👋
+#  Hi everyone :wave:, I'm Lofty 
 
-<!--
-**Lcofty/lcofty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Lcofty&color=dc143c"/>
+</div>
+<div align="center">
+    <a href="https://discord.com/users/811946960738582549" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/811946960738582549/"></a>
+</div>
+
+## 📌Contact 
+
+<a href="https://discord.com/users/811946960738582549" target="_blank"><img src="https://shields.io/badge/Lofty-111111.svg?&style=for-the-badge&logo=discord"></a> <a href="https://github.com/Lcofty" target="_blank"><img src="https://shields.io/badge/Lofty-111111.svg?&style=for-the-badge&logo=github"></a>    <a href="https://discord.gg/ynhYbXXVYm" target="_blank"><img src="https://shields.io/badge/ Discord Server-111111.svg?&style=for-the-badge&logo=discord"></a>
+
+
+
+
+
+
+
+<img alt="GIF" src="https://media4.giphy.com/media/I6wUi5eTdUCWI/giphy.gif"/> 
+
+<details> 
+<summary>:bulb: 📈 Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Lcofty&theme=radical">
+</details>
+
+<details> 
+<summary>:bulb: 🌍 Most Used Languages </summary>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</details>
+
