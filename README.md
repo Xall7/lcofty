@@ -1,4 +1,4 @@
-#  Hi everyone :wave:, I'm Lofty 
+#  Hi everyone :wave:, I'm Xal 
 
 
 
@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=Lcofty&color=dc143c"/>
 </div>
 <div align="center">
-    <a href="https://discord.com/users/811946960738582549" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/811946960738582549/"></a>
+    <a href="https://discord.com/users/811946960738582549" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/315548760509906964/"></a>
 </div>
 
 ## 📌Contact 
