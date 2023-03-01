@@ -6,12 +6,12 @@
     <img src="https://komarev.com/ghpvc/?username=Lcofty&color=dc143c"/>
 </div>
 <div align="center">
-    <a href="https://discord.com/users/811946960738582549" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/315548760509906964/"></a>
+    <a href="https://discord.com/users/315548760509906964" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/315548760509906964/"></a>
 </div>
 
 ## 📌Contact 
 
-<a href="https://discord.com/users/811946960738582549" target="_blank"><img src="https://shields.io/badge/Lofty-111111.svg?&style=for-the-badge&logo=discord"></a> <a href="https://github.com/Lcofty" target="_blank"><img src="https://shields.io/badge/Lofty-111111.svg?&style=for-the-badge&logo=github"></a>    <a href="https://discord.gg/ynhYbXXVYm" target="_blank"><img src="https://shields.io/badge/ Discord Server-111111.svg?&style=for-the-badge&logo=discord"></a>
+<a href="https://discord.com/users/315548760509906964" target="_blank"><img src="https://shields.io/badge/Lofty-111111.svg?&style=for-the-badge&logo=discord"></a> <a href="https://github.com/Xall7" target="_blank"><img src="https://shields.io/badge/Lofty-111111.svg?&style=for-the-badge&logo=github"></a>    <a href="https://discord.gg/Xmsy99wW" target="_blank"><img src="https://shields.io/badge/ Discord Server-111111.svg?&style=for-the-badge&logo=discord"></a>
 
 
 
