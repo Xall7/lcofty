@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Lcofty&color=dc143c"/>
+    <img src="https://komarev.com/ghpvc/?username=Xall7&color=dc143c"/>
 </div>
 <div align="center">
     <a href="https://discord.com/users/315548760509906964" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/315548760509906964/"></a>
