@@ -11,7 +11,7 @@
 
 ## 📌Contact 
 
-<a href="https://discord.com/users/315548760509906964" target="_blank"><img src="https://shields.io/badge/Lofty-111111.svg?&style=for-the-badge&logo=discord"></a> <a href="https://github.com/Xall7" target="_blank"><img src="https://shields.io/badge/Lofty-111111.svg?&style=for-the-badge&logo=github"></a>    <a href="https://discord.gg/Xmsy99wW" target="_blank"><img src="https://shields.io/badge/ Discord Server-111111.svg?&style=for-the-badge&logo=discord"></a>
+<a href="https://discord.com/users/315548760509906964" target="_blank"><img src="https://shields.io/badge/Xal-111111.svg?&style=for-the-badge&logo=discord"></a> <a href="https://github.com/Xall7" target="_blank"><img src="https://shields.io/badge/Xal-111111.svg?&style=for-the-badge&logo=github"></a>    <a href="https://discord.gg/Xmsy99wW" target="_blank"><img src="https://shields.io/badge/ Discord Server-111111.svg?&style=for-the-badge&logo=discord"></a>
 
 
 
